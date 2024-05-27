@@ -6,7 +6,7 @@
 
 /*LAYOUT ELEMENTS*/
 body{
-    font-family: sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 header{
@@ -198,6 +198,10 @@ li{
     padding: 20px;
 }
 
+.stars-bg h3{
+    font-size: 1.75em;
+}
+
 
 .flag{
     width: 20px;
@@ -238,7 +242,7 @@ li{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding: 100px;
+    padding-bottom: 100px;
 }
 
 .container-sm{
