@@ -118,6 +118,7 @@ footer{
 .txt-end{
     text-align: right;
 }
+
 li{
     display: inline-block;
     list-style: none;
@@ -128,6 +129,7 @@ li{
 .btn{
     padding: 10px 20px;
     border-radius: 20px;
+    border: none;
 }
 .btn-white{
     background-color: #fff;
@@ -136,7 +138,7 @@ li{
 
 
 /*FIRST SECTION SPECIFIC*/
-.bg-jumbatron{
+.bg-jumbotron{
     background-image: url(../img/jumbo.png);
     background-size: cover;
     background-position: center;
